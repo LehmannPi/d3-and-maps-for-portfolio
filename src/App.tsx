@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { BarChart } from './components/charts';
-import { GoogleMap, MockMap } from './components/maps';
+import { MockMap } from './components/maps';
 import type { BarChartData } from './types/chart';
 import type { MapMarker } from './types/map';
 import './App.css';
